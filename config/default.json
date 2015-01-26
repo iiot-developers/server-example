@@ -1,6 +1,6 @@
 {
   "cmx": {
-    "validator": "",
+    "validator": "123456",
     "secret": ""
   }
 }
