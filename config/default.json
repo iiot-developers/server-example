@@ -1,8 +1,8 @@
 {
   "cmx": {
-    "validator": "YOUR_CMX_VALIDATOR"
+    "validator": "YOUR_VALIDATOR"
   },
   "server": {
-    "port": 9911
+    "port": "YOUR_SERVER_PORT"
   }
 }
