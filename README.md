@@ -25,7 +25,9 @@ Refer to the validator in your activity, and set it to the *config/default.json*
 
 Set the url to the admin portal. The default url path is
 
-```http://{YOUR_SERVER_IP}:{YOUR_SERVER_PORT}/cmx```
+```
+http://{YOUR_SERVER_IP}:{YOUR_SERVER_PORT}/cmx
+```
 
 Press the **Validate** button to verify your url.
 
