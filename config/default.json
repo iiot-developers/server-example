@@ -1,6 +1,8 @@
 {
   "cmx": {
-    "validator": "123456",
-    "secret": ""
+    "validator": "YOUR_CMX_VALIDATOR"
+  },
+  "server": {
+    "port": 9911
   }
 }
