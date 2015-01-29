@@ -21,6 +21,12 @@ Refer to the validator in your activity, and set it to the *config/default.json*
 }
 ```
 
+## Start the Server ##
+
+```
+./start.bash
+```
+
 ## Validate the Url ##
 
 Set the url to the admin portal. The default url path is

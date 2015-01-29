@@ -10,7 +10,8 @@ router.get('/', function(req, res) {
 });
 
 router.post('/', function(req, res) {
-  debug(req.body);
+  debug(JSON.stringify(req.body));
+  res.send(req.body);
 });
 
 module.exports = router;
